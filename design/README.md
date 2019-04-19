@@ -33,7 +33,8 @@ E.g.
 ![](https://raw.githubusercontent.com/TomSavas/Multiroids/master/design/black_hole.png)
 We could add black holes / worm holes for a gravity mechanic which would be pretty interesting and possibly difficult
 to deal with when coupled with the inertia that the ships have.
-Furthermore, we could have multiple types of ships. However, I feel like we should limit ourselves to a very limited
+
+Furthermore, we could have multiple types of ships although I feel like we should limit ourselves to a very limited
 number of ships.
 E.g. of a ship type: ship pair that have an electric arc in between:
 ![](https://raw.githubusercontent.com/TomSavas/Multiroids/master/design/potential_pair_ship.png)
