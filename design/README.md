@@ -42,3 +42,5 @@ E.g of a ship type: big ship that could be used for ramming / coverage.
 ![](https://raw.githubusercontent.com/TomSavas/Multiroids/master/design/potential_big_ship.png)
 -- To be continued --
 <sup>Help would be appretiated<sup>
+  
+![](https://raw.githubusercontent.com/TomSavas/Multiroids/master/design/Screenshot_1.png)
